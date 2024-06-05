@@ -13,14 +13,14 @@
 ## 📜 Table of Content
 
 - [KG-LLMs-papers]
-  - 📥 [KBQA: Knowledge-Based Question Answering system](#KBQA: Knowledge-Based Question Answering system)
-  - 📥 [KGC: Knowledge Graph Completion](#KGC: Knowledge Graph Completion)
+  - 📥 [KBQA: Knowledge-Based Question Answering system](#-KBQA:-Knowledge-Based-Question-Answering-system)
+  - ✨︎ [KGC: Knowledge Graph Completion](#-KGC:-Knowledge-Graph-Completion)
     - [Survey](#survey)
     - [LLM](#LLM)
 
 ## 📥 KBQA: Knowledge-Based Question Answering system
 
-## 📥 KGC: Knowledge Graph Completion
+## ✨︎ KGC: Knowledge Graph Completion
 
 ### Survey
 
