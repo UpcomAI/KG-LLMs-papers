@@ -4,8 +4,6 @@
 ![](https://img.shields.io/github/last-commit/UpcomAI/Embodied-AI-papers?color=green) 
 ![](https://img.shields.io/badge/PRs-Welcome-red) 
 
-> What can LLMs do for ROBOTs? 
-
 🙌 This repository collects papers integrating **Knowledge Graph** and **large language models (LLMs)**.
 
 😎 Welcome to recommend missing papers through **`Adding Issues`** or **`Pull Requests`**. 
@@ -14,17 +12,19 @@
 
 ## 📜 Table of Content
 
-- [KG-LLMs-papers](#KG-LLMs-papers)
-  - [📥 KBQA: Knowledge-Based Question Answering system](#KBQA: Knowledge-Based Question Answering system)
-  - [✨︎ KGC: Knowledge Graph Completion](#︎KGC-Knowledge Graph Completion)
+- [KG-LLMs-papers]
+  - 📥 [KBQA: Knowledge-Based Question Answering system](#📥 KBQA: Knowledge-Based Question Answering system)
+  - 📥 [KGC: Knowledge Graph Completion](#📥 KGC: Knowledge Graph Completion)
     - [Survey](#survey)
     - [LLM](#LLM)
+
+## 📥 KBQA: Knowledge-Based Question Answering system
 
 ## 📥 KGC: Knowledge Graph Completion
 
 ### Survey
 
-- \[[KBS 2022]([https://arxiv.org/pdf/2402.05741](https://dl.acm.org/doi/10.1016/j.knosys.2022.109597))\] A comprehensive overview ofknowledge graph completion
+- \[[KBS 2022](https://dl.acm.org/doi/10.1016/j.knosys.2022.109597)\] A comprehensive overview ofknowledge graph completion
 
 ### LLM
 
