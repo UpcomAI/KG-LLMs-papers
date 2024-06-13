@@ -19,7 +19,8 @@
     - [LLM](#LLM)
 
 ## 📥 KBQA: Knowledge-Based Question Answering system
-
+- \[[arXiv 2024.05](https://arxiv.org/pdf/2405.14831)\] HippoRAG: Neurobiologically Inspired Long-Term Memory for Large Language Models
+- \[[arXiv 2024.06](http://arxiv.org/abs/2406.01145)\] Explore then Determine: A GNN-LLM Synergy Framework for Reasoning over Knowledge Graph
 ## ✨︎ KGC: Knowledge Graph Completion
 
 ### Survey
@@ -31,4 +32,5 @@
 - \[[arXiv 2024](https://arxiv.org/abs/2308.00081)\]Towards Semantically Enriched Embeddings for Knowledge Graph Completion
 - \[[arXiv 2024](https://arxiv.org/abs/2310.06671)\] Making Large Language Models Perform Better in Knowledge Graph Completion
 - \[[arXiv 2024](https://arxiv.org/abs/2402.01729)\] Contextualization Distillation from Large Language Model for Knowledge Graph Completion
+
 
