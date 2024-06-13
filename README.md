@@ -14,13 +14,22 @@
 
 - [KG-LLMs-papers]
   - 📥 [KBQA: Knowledge-Based Question Answering system](#-KBQA:-Knowledge-Based-Question-Answering-system)
+  - - [Survey](#survey)
+    - [LLM](#method)
   - ✨︎ [KGC: Knowledge Graph Completion](#-KGC:-Knowledge-Graph-Completion)
     - [Survey](#survey)
     - [LLM](#LLM)
 
 ## 📥 KBQA: Knowledge-Based Question Answering system
-- \[[arXiv 2024.05](https://arxiv.org/pdf/2405.14831)\] HippoRAG: Neurobiologically Inspired Long-Term Memory for Large Language Models
+### Survey
+
+### method
 - \[[arXiv 2024.06](http://arxiv.org/abs/2406.01145)\] Explore then Determine: A GNN-LLM Synergy Framework for Reasoning over Knowledge Graph
+- \[[arXiv 2024.05](https://arxiv.org/pdf/2405.14831)\] HippoRAG: Neurobiologically Inspired Long-Term Memory for Large Language Models
+- \[[arXiv 2024.03](https://arxiv.org/abs/2403.05881)\] KG-Rank: Enhancing Large Language Models for Medical QA with Knowledge Graphs and Ranking Techniques
+- \[[arXiv 2024.01](https://arxiv.org/abs/2401.13444)\] Clue-Guided Path Exploration: An Efficient Knowledge Base Question-Answering Framework with Low Computational Resource Consumption
+- \[[ICLR24](https://arxiv.org/abs/2307.07697)\] Think-on-Graph: Deep and Responsible Reasoning of Large Language Model on Knowledge Graph
+
 ## ✨︎ KGC: Knowledge Graph Completion
 
 ### Survey
